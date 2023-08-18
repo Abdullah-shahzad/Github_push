@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **python, C++, SQL, HTML, CSS**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- ✏️ I regularly write articles on [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
-- 📫 How to reach me **abdullahkpr22@gmail.com**
+- 🅖 How to reach me **abdullahkpr22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/@abdullahkpr22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abdullahkpr22" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abdullahkpr22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdullahkpr22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
